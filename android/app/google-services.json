@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057464996003",
+    "project_id": "vidyabharat-staff",
+    "storage_bucket": "vidyabharat-staff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057464996003:android:7d7c27f092ab8b549b2f16",
+        "android_client_info": {
+          "package_name": "com.wrteam.saas.staff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzROm99bQNJWejeIXPrZswRVGZx21DpSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
